@@ -4,4 +4,4 @@ I am a 16 year old high school junior enrolled in my school's Computer Science a
 
 - 👀 I’m interested in developing and honing my front end development skills using Javascript, Python, etc.
 - 🌱 I’m currently learning Java, and Python.
-- 💞️ I’m looking major or minor in computer science in college.
+- 💞️ I’m looking to major or minor in computer science in college.
